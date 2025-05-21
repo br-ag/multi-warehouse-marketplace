@@ -1,5 +1,5 @@
 # Multi Warehouse Marketplace
-![demo]([https://raw.githubusercontent.com/br-ag/portofolio/refs/heads/develop/src/img/preview_01.png](https://raw.githubusercontent.com/br-ag/multi-warehouse-marketplace/main/projects/client/public/mokomdo_thumbnail.png))
+![demo](https://raw.githubusercontent.com/br-ag/multi-warehouse-marketplace/main/projects/client/public/mokomdo_thumbnail.png)
 
 This is monorepo contain frontend project using ReactJS and backend project using ExpressJS.
 
